@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://sinchon-coin-karaoke-note.banpo-massage-review.xyz/sitemap.xml
+Sitemap: https://sinchon-coin-karaoke-note.banpo-massage-review.xyz/sitemap-pages.xml
